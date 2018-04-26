@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 567bf50e3b538a64dba0b180949d9d31
+timeCreated: 1520409797
+licenseType: Free
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - moveSound: {fileID: 8300000, guid: d06124b676c07334e82f57b2f0f42972, type: 3}
+  - moveUpSound: {fileID: 8300000, guid: 26638f9f1c6d1ef4db90e73b35de9ef4, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

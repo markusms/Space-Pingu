@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 3f5d09f6249a25942ade22a716914009
+timeCreated: 1518687074
+licenseType: Free
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - prefabButtonNotMine: {instanceID: 0}
+  - prefabButtonMine: {instanceID: 0}
+  - mineExplosionSprite: {instanceID: 0}
+  - evilPenguinSprite: {instanceID: 0}
+  - uiButtonSprite: {instanceID: 0}
+  - explosion: {fileID: 8300000, guid: 47cff7bc0b43a6b4faecd452d3d0eb19, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
